@@ -1,9 +1,11 @@
 # Next_word_predictor-indic-language-
-Using a telugu language corpus to predict the next word with the help of nltk library
+Using a telugu language corpus to predict the next word with the help of nltk library  
 
-• This report is in regards to the WORD PREDICTOR model made using an Indic corpus.
-• The Indic corpus contains 6100 sentences and 75151 words in TELUGU LANGUAGE.
-APPROACH:  
+• This report is in regards to the WORD PREDICTOR model made using an Indic corpus.  
+• The Indic corpus contains 6100 sentences and 75151 words in TELUGU LANGUAGE.  
+
+APPROACH:    
+
 We start out with an Indic corpus of Telugu language with 47 million sentences and close to 500 million words. But due to computing restriction, the corpus was downsized.  
 
 The approach to read the corpus and make models was done using NLTK library. The corpus was imported to be read as a string.  
